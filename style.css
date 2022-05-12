@@ -103,12 +103,17 @@ p{
     
 }
 .footer{
-    background-color: #DBE9EE;
-    text-align: center;
-    height: 60px;
-    width: 100%;
-    padding-top: 20px;
-}
-.footer h2{
+    /*background-color: #DBE9EE;*/
 
+    background-color: #466995;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer a{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    padding: 20px;
 }
